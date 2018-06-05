@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TestTask</string>
+
+    <!-- Подпись EditorActivity -->
+    <string name="editor_name">Добавить элемент</string>
+
+    <!-- Подпись текста элемента -->
+    <string name="element_text">Текст</string>
+
+    <!-- Поле ввода для текста элемента -->
+    <string name="hint_element_text">Введите текст</string>
+
+    <!-- Подпись даты элемента -->
+    <string name="element_date">Дата</string>
+
+    <!-- Поле ввода для даты элемента -->
+    <string name="hint_element_date">05/06/2018</string>
+
+    <!-- Подпись времени элемента -->
+    <string name="element_time">Время</string>
+
+    <!-- Поле ввода для времени элемента -->
+    <string name="hint_element_time">17:45:23</string>
+    <string name="editor_activity_title_new_element">Добавить элемент</string>
+    <string name="editor_activity_title_edit_element">Редактировать</string>
+    <string name="unsaved_changes_dialog_msg">Отменить изменения и выйти из редактирования?</string>
+    <string name="discard">Да</string>
+    <string name="keep_editing">Нет</string>
+    <string name="delete_dialog_msg">Удалить этот элемент?</string>
+    <string name="delete">Да</string>
+    <string name="cancel">Нет</string>
+    <string name="add_reminder">Введите текст...</string>
+    <string name="date">Дата</string>
+    <string name="time">Время</string>
+
+
+</resources>
